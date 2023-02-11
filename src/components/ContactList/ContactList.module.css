@@ -1,0 +1,22 @@
+.list {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+
+.button {
+  color: #fff;
+  border: none;
+  background-color: #2d3133;
+  border-radius: 10px;
+  margin-left: 20px;
+  height: 30px;
+  width: 30px;
+}
+
+.item {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
